@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bank>
+        
+    <customers>
+        <customer id="C101">
+            <name>Akshit Bisht</name>
+            <username>akshit</username>
+            <password>pass123</password>
+            <accounts>
+                <account number="ACC-1001">
+                    <type>SAVINGS</type>
+                    <balance>5000.0</balance>
+                </account>
+            </accounts>
+        </customer>
+    </customers>
+    
+</bank>
